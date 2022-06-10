@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import './components/header.js';
+import './components/Header.js';
 import Header from './components/Header.js';
 import Footer from './components/Footer';
 import Profitability from './components/Profitability';
