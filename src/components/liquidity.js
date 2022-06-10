@@ -1,6 +1,6 @@
 function Liquidity() { // This was the button group from bootstrap examples which i turned to profitability and removed the button function
     return (
-    <div class="container px-4 py-5" id="liquidity">
+    <div class="container px-4 py-5" id="Liquidity">
     <h2 class="pb-2 border-bottom font-weight-bold">Liquidity</h2>
     <div class="row g-4 py-5 row-cols-1 row-cols-lg-2">
       <div class="col d-flex align-items-center">
